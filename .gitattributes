@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.sql text
+# DB dumps exported from SSMS are UTF-16/CRLF; keep their bytes untouched
+*-Database.sql -text
+*DB.sql -text
+
+*.pdf binary
+*.bak binary

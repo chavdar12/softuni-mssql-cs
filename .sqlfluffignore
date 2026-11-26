@@ -1,0 +1,7 @@
+# SSMS-exported setup dumps (UTF-16), kept byte-for-byte
+*-Database.sql
+*DB.sql
+# SQL SQLFluff cannot parse yet (backslash paths, BACKUP, some CREATE FUNCTION bodies)
+001-Data-definition-аnd-datatypes/Problem-09.sql
+001-Data-definition-аnd-datatypes/Problem-17.sql
+007-Functions and procedures/Problem-07.sql
